@@ -1,0 +1,30 @@
+contentdir: "content"
+publishdir: "public"
+theme: "beautifulhugo"
+indexes:
+  category: "categories"
+baseurl: "/"
+title: "Algatux"
+canonifyurls: true
+
+params:
+  logo: "http://www.gravatar.com/avatar/d9b386ec082da4173b8b03a2585478b0"
+
+author:
+  name: "Alessandro Galli"
+  email: "a.galli85@gmail.com"
+  github: "Algatux"
+  twitter: "Algatux"
+
+# Set up your menu items in the navigation bar
+# You can use identifier to prepend a font awesome icon to your text
+menu:
+  main:
+    - blog:
+      name: "Blog"
+      url: "/"
+      weight: 1
+    - me:
+      name: "Me"
+      url: "/me"
+      weight: 1
