@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Alessandro Galli</title>
+    <link>/articles/</link>
+    <description>Recent content in Articles on Alessandro Galli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Articles Pubblished</title>
+      <link>/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.facile.it/json-web-token/&#34;&gt;Json Web Token&lt;/a&gt; (08 APRIL 2016)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineering.facile.it/protezione-di-dati-sensibili-usando-la-crittografia/&#34;&gt;Data protection using Encryption&lt;/a&gt; (05 OCTOBER 2015)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
