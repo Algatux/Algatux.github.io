@@ -1,0 +1,58 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Alessandro Galli"
+
+contentdir= "content"
+publishdir= "public"
+theme= "hugo-material-docs"
+
+canonifyurls= true
+
+[params]
+  # General information
+  author= "Algatux"
+  description= "web developer"
+  copyright= "Alessandro Galli 2016"
+
+  provider= "GitHub"
+  logo= "images/avatar.jpg"
+  favicon= "images/favicon/favicon.ico"
+
+  custom_css = [
+    "css/custom.css"
+  ]
+
+  [params.font]
+    text= "Roboto"
+    code= "Roboto Mono"
+
+  [params.palette]
+    primary= "indigo"
+    accent= "light green"
+
+
+
+[social]
+  github= "Algatux"
+  twitter= "Algatux"
+
+[[menu.main]]
+	name   = "About"
+	url    = "/"
+	weight = 0
+
+[[menu.main]]
+	name   = "Projects"
+	url    = "projects/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Publications"
+	url    = "pubblications/"
+	weight = 20
+
+[blackfriday]
+    smartypants= true
+    fractions= true
+    smartDashes= true
+    plainIDAnchors= true
