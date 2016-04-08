@@ -30,8 +30,6 @@ canonifyurls= true
     primary= "indigo"
     accent= "light green"
 
-
-
 [social]
   github= "Algatux"
   twitter= "Algatux"
@@ -47,8 +45,8 @@ canonifyurls= true
 	weight = 10
 
 [[menu.main]]
-	name   = "Publications"
-	url    = "pubblications/"
+	name   = "Articles"
+	url    = "articles/"
 	weight = 20
 
 [blackfriday]
