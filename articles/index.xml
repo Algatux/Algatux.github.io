@@ -9,14 +9,14 @@
     <atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Articles Pubblished</title>
+      <title>Articles Published</title>
       <link>/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/articles/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://engineering.facile.it/json-web-token/&#34;&gt;Json Web Token&lt;/a&gt; (08 APRIL 2016)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://engineering.facile.it/protezione-di-dati-sensibili-usando-la-crittografia/&#34;&gt;Data protection using Encryption&lt;/a&gt; (05 OCTOBER 2015)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.facile.it/blog/eng/json-web-tokens/&#34;&gt;Json Web Token&lt;/a&gt; (08 APRIL 2016)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.facile.it/blog/eng/protection-of-sensitive-data-using-encryption/&#34;&gt;Protection of sensitive data using encryption&lt;/a&gt; (05 OCTOBER 2015)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
