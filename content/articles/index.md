@@ -1,6 +1,6 @@
 ---
-title: "Articles Pubblished"
+title: "Articles Published"
 ---
 
-- [Json Web Token](http://engineering.facile.it/json-web-token/) (08 APRIL 2016)
-- [Data protection using Encryption](http://engineering.facile.it/protezione-di-dati-sensibili-usando-la-crittografia/) (05 OCTOBER 2015)
+- [Json Web Token](https://engineering.facile.it/blog/eng/json-web-tokens/) (08 APRIL 2016)
+- [Protection of sensitive data using encryption](https://engineering.facile.it/blog/eng/protection-of-sensitive-data-using-encryption/) (05 OCTOBER 2015)
